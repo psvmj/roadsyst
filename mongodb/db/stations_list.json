@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "57eb4cb22b7713fd0c85778c",
+    "station_id": 0,
+    "road_id": 0,
+    "road_name": "Gardiner, Illinois",
+    "charge_rate": 31
+  },
+  {
+    "_id": "57eb4cb27fb1882f36ef46a1",
+    "station_id": 1,
+    "road_id": 1,
+    "road_name": "Clinton, Marshall Islands",
+    "charge_rate": 47
+  },
+  {
+    "_id": "57eb4cb297b081ee5da3530e",
+    "station_id": 2,
+    "road_id": 2,
+    "road_name": "Tuskahoma, Florida",
+    "charge_rate": 35
+  },
+  {
+    "_id": "57eb4cb213bf75ff824c63c2",
+    "station_id": 3,
+    "road_id": 3,
+    "road_name": "Gratton, New York",
+    "charge_rate": 70
+  },
+  {
+    "_id": "57eb4cb2e58bf98784f64b3a",
+    "station_id": 4,
+    "road_id": 4,
+    "road_name": "Waterford, Kansas",
+    "charge_rate": 79
+  },
+  {
+    "_id": "57eb4cb26e2bf66df5370155",
+    "station_id": 5,
+    "road_id": 5,
+    "road_name": "Westboro, Wisconsin",
+    "charge_rate": 61
+  },
+  {
+    "_id": "57eb4cb266c703dc023f6d15",
+    "station_id": 6,
+    "road_id": 6,
+    "road_name": "Orovada, North Carolina",
+    "charge_rate": 41
+  },
+  {
+    "_id": "57eb4cb2ca1d472ca116a7b6",
+    "station_id": 7,
+    "road_id": 7,
+    "road_name": "Clarksburg, Maryland",
+    "charge_rate": 79
+  },
+  {
+    "_id": "57eb4cb2af670cb6cf73006b",
+    "station_id": 8,
+    "road_id": 8,
+    "road_name": "Hailesboro, Minnesota",
+    "charge_rate": 45
+  },
+  {
+    "_id": "57eb4cb2446ce007a5ecd21b",
+    "station_id": 9,
+    "road_id": 9,
+    "road_name": "Brambleton, Virginia",
+    "charge_rate": 48
+  }
+]

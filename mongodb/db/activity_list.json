@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "57eb4a3dcfb37dfde4828665",
+    "activity_id": 1,
+    "user_id": 1,
+    "road_id": 1,
+    "time_in": "2015-06-10T11:21:44",
+    "time_out": "2016-03-15T11:46:22"
+  },
+  {
+    "_id": "57eb4a3d8883be92f658af33",
+    "activity_id": 1,
+    "user_id": 1,
+    "road_id": 2,
+    "time_in": "2016-03-05T09:11:46",
+    "time_out": "2015-12-04T01:28:45"
+  },
+  {
+    "_id": "57eb4a3dda2df905014e60b8",
+    "activity_id": 2,
+    "user_id": 1,
+    "road_id": 2,
+    "time_in": "2015-12-03T06:28:29",
+    "time_out": "2014-11-01T06:56:04"
+  },
+  {
+    "_id": "57eb4a3d038b7c44a73fe4bf",
+    "activity_id": 2,
+    "user_id": 1,
+    "road_id": 3,
+    "time_in": "2015-05-16T03:50:57",
+    "time_out": "2015-02-11T05:08:40"
+  },
+  {
+    "_id": "57eb4a3dca20be19cea4b209",
+    "activity_id": 2,
+    "user_id": 1,
+    "road_id": 4,
+    "time_in": "2015-10-03T02:32:00",
+    "time_out": "2016-05-05T02:18:08"
+  },
+  {
+    "_id": "57eb4a3d83e80dea61426825",
+    "activity_id": 2,
+    "user_id": 1,
+    "road_id": 1,
+    "time_in": "2016-02-07T06:05:14",
+    "time_out": "2014-05-28T01:11:06"
+  },
+  {
+    "_id": "57eb4a3dab1a5d1715eed0de",
+    "activity_id": 1,
+    "user_id": 2,
+    "road_id": 3,
+    "time_in": "2015-11-13T01:27:21",
+    "time_out": "2015-04-08T04:26:30"
+  },
+  {
+    "_id": "57eb4a3decca8a7f6c8a4dc3",
+    "activity_id": 1,
+    "user_id": 2,
+    "road_id": 4,
+    "time_in": "2015-10-14T08:40:41",
+    "time_out": "2016-01-27T03:18:17"
+  },
+  {
+    "_id": "57eb4a3d7217030f418f49ae",
+    "activity_id": 1,
+    "user_id": 3,
+    "road_id": 8,
+    "time_in": "2014-04-18T11:26:35",
+    "time_out": "2014-02-19T06:12:06"
+  },
+  {
+    "_id": "57eb4a3d6c2bab5a95a941a8",
+    "activity_id": 1,
+    "user_id": 4,
+    "road_id": 9,
+    "time_in": "2015-11-08T06:52:53",
+    "time_out": "2016-07-04T10:01:50"
+  },
+  {
+    "_id": "57eb4a3d6c2bab5a95a941m3",
+    "activity_id": 1,
+    "user_id": 5,
+    "road_id": 9,
+    "time_in": "2015-11-08T06:52:53",
+    "time_out": "2016-07-04T10:01:50"
+  },
+  {
+    "_id": "57eb4a3d6c2bab5a95a941h6",
+    "activity_id": 1,
+    "user_id": 6,
+    "road_id": 7,
+    "time_in": "2015-11-08T06:52:53",
+    "time_out": "2016-07-04T10:01:50"
+  },
+  {
+    "_id": "57eb4a3d6c2bab5a95a941b3",
+    "activity_id": 1,
+    "user_id": 7,
+    "road_id": 5,
+    "time_in": "2015-11-08T06:52:53",
+    "time_out": "2016-07-04T10:01:50"
+  },
+  {
+    "_id": "57eb4a3d6c2bab5a95a941a1",
+    "activity_id": 1,
+    "user_id": 8,
+    "road_id": 4,
+    "time_in": "2015-11-08T06:52:53",
+    "time_out": "2016-07-04T10:01:50"
+  },
+  {
+    "_id": "57eb4a3d6c2bab5a95a941a2",
+    "activity_id": 1,
+    "user_id": 9,
+    "road_id": 3,
+    "time_in": "2015-11-08T06:52:53",
+    "time_out": "2016-07-04T10:01:50"
+  }
+]
